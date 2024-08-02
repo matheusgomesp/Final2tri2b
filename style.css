@@ -3,7 +3,8 @@
 background-color: rgb(0, 0, 0);
 font-size: 20px;
 color: rgb(19, 185, 88);
-display flex: ;
+display: flex ;
+padding: 1.5%;
 }
 .cabecalho2{
 background-color: black;
