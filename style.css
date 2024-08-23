@@ -9,6 +9,7 @@
     --cor-de-fundo: #EBECEE;
     --branco: #000000;
     --laranja: #FECD2F;
+    --azul-degrade: background-image: url(desertin.jpg);
     --fonte-principal: "Poppins";
     --fonte-secundaria: "Josefin Sans";
 }
