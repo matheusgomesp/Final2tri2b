@@ -35,8 +35,8 @@ body {
 }
 
 .container__imagem {
-    padding: 1em;
-    margin: 1;
+    width: 20%;
+    height: 20%;
 
 }
 
