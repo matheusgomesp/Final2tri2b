@@ -69,7 +69,7 @@ body {
 }
 
 .banner {
-    background: var(--azul-degrade);
+    background-image: url(desertin.jpg);
     color: var(--branco);
     text-align: center;
     padding: 2.5em 2em;
