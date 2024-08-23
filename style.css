@@ -105,7 +105,7 @@ body {
 }
 
 .topicos {
-    background: var(--azul-degrade);
+    background-image: url(desertin.jpg);
     text-align: center;
     padding: 1em 0;
 }
@@ -150,7 +150,7 @@ body {
   }
   .contato__titulo,
   .contato__texto {
-   background:var(--azul-degrade);
+   background-image: url(desertin.jpg);
   -webkit-background-clip: text;
   -webkit-text-fill-color:transparent;
    background-clip: text;
