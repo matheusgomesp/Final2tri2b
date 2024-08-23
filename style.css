@@ -9,13 +9,12 @@
     --cor-de-fundo: #EBECEE;
     --branco: #000000;
     --laranja: #FECD2F;
-    --azul-degrade: background-image: url(desertin.jpg);
+    --azul-degrade: linear_gradiente;
     --fonte-principal: "Poppins";
     --fonte-secundaria: "Josefin Sans";
 }
 
 body {
-    background-image: url(desertin.jpg);
     font-size: 16px;
     font-weight: 400;
 }
