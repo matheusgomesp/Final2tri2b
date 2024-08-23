@@ -15,7 +15,7 @@
 }
 
 body {
-    background: var(--cor-de-fundo);
+    background-image: url(desertin.jpg);
     font-size: 16px;
     font-weight: 400;
 }
