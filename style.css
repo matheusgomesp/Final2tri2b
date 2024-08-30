@@ -154,6 +154,8 @@ body {
   -webkit-background-clip: text;
   -webkit-text-fill-color:transparent;
    background-clip: text;
+   image-orientation: from-image;
+   
   }
   .contato__email {
     padding: 1em;
