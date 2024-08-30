@@ -33,12 +33,12 @@ body {
     align-items: center;
 }
 .scorpion {
-    width: 15%;
-    height: 15%;
+    width: 50%;
+    height: 50%;
 }
 .sub {
-    height: 30%;
-    width: 30%;
+    height: 50%;
+    width: 50%;
 }
 .container__imagem {
     width: 15%;
