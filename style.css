@@ -20,7 +20,7 @@ body {
 }
 
 .cabeçalho {
-    background-color: #FECD2F;
+    background-color: #000000;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -37,6 +37,10 @@ body {
     width: 20%;
     height: 20%;
 
+}
+.container__titulo--negrito {
+color: #FECD2F;
+font-size: 20px;
 }
 
 .cabeçalho__menu-hamburguer {
