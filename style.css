@@ -31,10 +31,11 @@ body {
 .container {
     display: flex;
     align-items: center;
-    height: 15%;
-    width: 15%;
 }
-
+.scorpion {
+    width: 15%;
+    height: 15%;
+}
 .container__imagem {
     width: 15%;
     height: 15%;
