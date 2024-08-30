@@ -31,6 +31,8 @@ body {
 .container {
     display: flex;
     align-items: center;
+    height: 15%;
+    width: 15%;
 }
 
 .container__imagem {
@@ -51,7 +53,6 @@ font-size: 100px;
     background-repeat: no-repeat;
     background-position: center;
 }
-
 .lista-menu {
     display: none;
     position: absolute;
