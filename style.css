@@ -8,7 +8,7 @@
 :root {
     --cor-de-fundo: #EBECEE;
     --branco: #FFFFFF;
-    --laranja: #FECD2F;
+    --laranja: #ceb666;
     --azul-degrade: linear-gradient(97.54deg, #002f52 35.49%, #326589 165.37%);
     --fonte-principal: "Poppins";
     --fonte-secundaria: "Josefin Sans";
@@ -20,7 +20,7 @@ body {
 }
 
 .cabeçalho {
-    background-color: #000000;
+    background-color: #d3bf65;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -39,7 +39,7 @@ body {
 
 }
 .container__titulo--negrito {
-color: #FECD2F;
+color: #000000;
 font-size: 60px;
 }
 
