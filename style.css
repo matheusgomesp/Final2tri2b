@@ -33,16 +33,16 @@ body {
     align-items: center;
 }
 .scorpion {
-    width: 30%;
-    height: 30%;
+    width: 50%;
+    height: 50%;
 }
 .sub {
     height: 50%;
     width: 50%;
 }
 .cave{
-    height: 50%;
-    width: 50%;
+    height: 30%;
+    width: 30%;
 }
 .container__imagem {
     width: 15%;
