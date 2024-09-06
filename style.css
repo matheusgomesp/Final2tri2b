@@ -8,7 +8,7 @@
 :root {
     --cor-de-fundo: #EBECEE;
     --branco: #FFFFFF;
-    --laranja: #ceb666;
+    --laranja: rgb(216, 190, 76);
     --azul-degrade: linear-gradient(97.54deg, #000000 35.49%, #000000 165.37%);
     --fonte-principal: "Poppins";
     --fonte-secundaria: "Josefin Sans";
@@ -20,7 +20,7 @@ body {
 }
 
 .cabeçalho {
-    background-color: #d8be4c;
+    background-color: rgb(216, 190, 76);
     display: flex;
     justify-content: space-between;
     align-items: center;
